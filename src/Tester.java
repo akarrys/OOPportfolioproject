@@ -1,3 +1,10 @@
+/*
+Author: Akarrys
+Description: Small OOP portfolio project, program allows users to create polygons of various
+types and input their geometric dimensions and output their area and perimeter.
+Date: Dec 22 2021
+*/
+
 import java.util.Scanner;
 public class Tester {
     public static void main (String[]args){ //main start of program
